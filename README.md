@@ -1,10 +1,10 @@
 # Python-Calculator
 A python simple calculator.
-# Addition
+# Addition (add())
 addition function adds two numbers that you input.
-# Sunbraction
+# Subraction (sub())
 subtraction function subtracts two numbers that you input.
-# Multiplication
+# Multiplication (mul())
 multiplication function multiplies two numbers that you input.
-#Division
+#Division (div())
 division functions multiplies two numbers that you input
