@@ -6,5 +6,5 @@ addition function adds two numbers that you input.
 subtraction function subtracts two numbers that you input.
 # Multiplication (mul())
 multiplication function multiplies two numbers that you input.
-#Division (div())
+# Division (div())
 division functions multiplies two numbers that you input
